@@ -22,7 +22,7 @@ $fields = array
  
 $headers = array
 (
-	'Authorization: key = AIzaSyAROkrqOCp-XqZgdcfJNPLmKjOHqhCq68Q',
+	'Authorization: key = put...your..api_key..here...Find...out...it..from...google-services.json file ',
 	'Content-Type: application/json'
 );
  
